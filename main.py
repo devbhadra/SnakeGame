@@ -10,6 +10,7 @@ pygame.init()
 white = (255, 255, 255)
 red = (255, 0, 0)
 black = (0, 0, 0)
+unknown = (1,1,1)
 
 # Creating window
 screen_width = 900
